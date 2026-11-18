@@ -1,0 +1,137 @@
+file,container,video_codec,audio_codec,pixels,sample_aspect_ratio,fps,bytes
+normal/avi_msmpeg4v2_mp3_320x240_7fps.avi,avi,msmpeg4v2,mp3,320x240,1:1,7,867732
+normal/avi_msmpeg4v3_mp3_320x240.avi,avi,msmpeg4v3,mp3,320x240,1:1,15,911840
+normal/avi_mpeg1video_mp2_320x240_25fps.avi,avi,mpeg1video,mp2,320x240,1:1,25,1272816
+normal/avi_mpeg4asp_mp3_352x288_sar12-11.avi,avi,libxvid,mp3,352x288,12:11,25,1662902
+normal/avi_h263_adpcm_176x144.avi,avi,h263,adpcm_ima_wav,176x144,1:1,15,880030
+normal/avi_msmpeg4v2_adpcm_320x180_8fps.avi,avi,msmpeg4v2,adpcm_ms,320x180,1:1,8,1229868
+normal/avi_rawvideo_bgr24_136x76_10fps.avi,avi,rawvideo,pcm_s16le,136x76,1:1,10,5864166
+normal/mkv_mpeg2video_ac3_720x480_sar32-27.mkv,matroska,mpeg2video,ac3,720x480,32:27,29.97,2702463
+normal/mkv_mpeg4asp_mp3_352x288_sar64-45.mkv,matroska,mpeg4,mp3,352x288,64:45,25,1689587
+normal/mkv_mjpeg_pcm_320x240.mkv,matroska,mjpeg,pcm_s16le,320x240,1:1,15,4705957
+normal/mkv_h263_mp3_176x144.mkv,matroska,h263,mp3,176x144,1:1,15,494026
+normal/mkv_ffv1_rgb_flac_227x127_12-5fps.mkv,matroska,ffv1_rgb,flac,227x127,1:1,12.5,784817
+normal/mkv_vp8_vorbis_320x240.mkv,matroska,vp8,vorbis,320x240,1:1,15,654910
+normal/mp4_mpeg4asp_mp3_640x360.mp4,mp4,mpeg4,mp3,640x360,1:1,25,2693827
+normal/mp4_mpeg4asp_mp3_160x106.mp4,mp4,mpeg4,mp3,160x106,1:1,10,437375
+normal/mov_mjpeg_pcm_320x240.mov,mov,mjpeg,pcm_s16le,320x240,1:1,15,4698674
+normal/mov_mpeg4asp_mp2_256x144_sar16-15.mov,mov,mpeg4,mp2,256x144,16:15,12,666619
+normal/3gp_h263_amrnb_176x144.3gp,3gp,h263,amr_nb,176x144,1:1,15,343663
+normal/3gp_mpeg4_amrnb_128x96.3gp,3gp,mpeg4,amr_nb,128x96,1:1,10,216405
+normal/asf_wmv1_wmav1_320x240.wmv,asf,wmv1,wmav1,320x240,1:1,15,781721
+normal/asf_wmv2_wmav2_320x240.wmv,asf,wmv2,wmav2,320x240,1:1,15,816965
+normal/asf_msmpeg4v3_wmav2_256x144_sar32-27.asf,asf,msmpeg4v3,wmav2,256x144,32:27,15,807371
+normal/rm_rv10_ac3_320x240.rm,rm,rv10,ac3,320x240,1:1,15,784594
+normal/rm_rv10_real144_176x144_sar12-11.rm,rm,rv10,real_144,176x144,12:11,12,600438
+normal/rm_rv20_ac3_320x240.rmvb,rm,rv20,ac3,320x240,1:1,15,818956
+normal/mpeg1_mpeg1video_mp2_352x240.mpg,mpeg,mpeg1video,mp2,352x240,1:1,23.976,1269760
+normal/mpeg2_mpeg2video_mp2_720x576_sar64-45.mpg,mpeg,mpeg2video,mp2,720x576,64:45,25,2844672
+normal/mpegts_mpeg2video_ac3_480x480_29-97.mpegts,mpegts,mpeg2video,ac3,480x480,1:1,29.97,2215392
+normal/vcd_mpeg1video_mp2_352x240.mpg,vcd,mpeg1video,mp2,352x240,1:1,23.976,1277952
+normal/svcd_mpeg2video_mp2_480x480.mpg,svcd,mpeg2video,mp2,480x480,1:1,23.976,1906688
+normal/dvd_mpeg2video_ac3_720x480_sar32-27.vob,dvd,mpeg2video,ac3,720x480,32:27,29.97,2826240
+normal/ogv_theora_vorbis_320x240.ogv,ogv,theora,vorbis,320x240,1:1,15,531420
+normal/flv_flv1_mp3_320x240.flv,flv,flv1,mp3,320x240,1:1,15,943202
+normal/flv_h264_nellymoser_320x240.flv,flv,h264,nellymoser,320x240,1:1,15,432353
+normal/nut_ffv1_rgb_pcm_161x107_12-5fps.nut,nut,ffv1_rgb,pcm_s16le,161x107,1:1,12.5,2670168
+damage/damage_corrupt_avi_msmpeg4v3_mp3_320x240.avi,.avi,corrupt_copy,corrupt_copy,,,,911840
+damage/damage_trunc_mp4_mpeg4asp_mp3_640x360.mp4,.mp4,corrupt_copy,corrupt_copy,,,,2613012
+damage/damage_corrupt_mkv_mpeg2video_ac3_720x480_sar32-27.mkv,.mkv,corrupt_copy,corrupt_copy,,,,2702463
+damage/damage_trunc_mkv_mpeg4asp_mp3_352x288_sar64-45.mkv,.mkv,corrupt_copy,corrupt_copy,,,,1638899
+damage/damage_corrupt_3gp_h263_amrnb_176x144.3gp,.3gp,corrupt_copy,corrupt_copy,,,,343663
+damage/damage_trunc_3gp_mpeg4_amrnb_128x96.3gp,.3gp,corrupt_copy,corrupt_copy,,,,209912
+damage/damage_corrupt_asf_wmv1_wmav1_320x240.wmv,.wmv,corrupt_copy,corrupt_copy,,,,781721
+damage/damage_corrupt_rm_rv10_ac3_320x240.rm,.rm,corrupt_copy,corrupt_copy,,,,784594
+damage/damage_trunc_rm_rv20_ac3_320x240.rmvb,.rmvb,corrupt_copy,corrupt_copy,,,,794387
+damage/damage_corrupt_mpegts_mpeg2video_ac3_480x480_29-97.mpegts,.mpegts,corrupt_copy,corrupt_copy,,,,2215392
+degraded/vhs_composite_wear_mpeg2_ac3_720x480.mkv,matroska,mpeg2video,ac3,720x480,32:27,29.97,1915971
+degraded/chroma_under_bleed_mpeg2_ac3_720x480.mkv,matroska,mpeg2video,ac3,720x480,32:27,29.97,2071635
+degraded/motion_ghost_trails_mpeg4_mp3_480x360.mp4,mp4,mpeg4,mp3,480x360,1:1,25,1508486
+degraded/generation_loss_x3_mpeg4_mp3_352x240.avi,avi,mpeg4,mp3,352x240,1:1,25,459254
+degraded/long_gop_bitstream_errors_mpeg4_mp3_480x360.avi,avi,mpeg4,mp3,480x360,1:1,25,1501272
+degraded/damaged_i_frame_mpeg4_mp3_480x360.avi,avi,mpeg4,mp3,480x360,1:1,25,2271744
+degraded/interlaced_wrong_handling_mpeg2_ac3_720x480.mkv,matroska,mpeg2video,ac3,720x480,32:27,29.97,3157074
+degraded/telecine_judder_mpeg2_mp3_720x480.mpg,mpeg,mpeg2video,mp3,720x480,32:27,29.97,2306048
+degraded/vbr_mp3_audio_offset_mpeg4_352x240.avi,avi,mpeg4,mp3,352x240,1:1,25,1433740
+degraded/dropped_duplicated_frames_mpeg4_mp3_480x360.mkv,matroska,mpeg4,mp3,480x360,1:1,25,2301404
+structure/mkv_no_cues_written_to_pipe_320x240.mkv,matroska,mpeg4,mp3,320x240,1:1,25,1462774
+structure/mp4_faststart_moov_first_640x360.mp4,mp4,mpeg4,mp3,640x360,1:1,25,2664576
+structure/avi_noninterleaved_audio_at_end_320x240.avi,avi,mpeg4,mp3,320x240,1:1,15,1055818
+structure/avi_zero_length_dropped_frame_chunks_320x240.avi,avi,mpeg4,mp3,320x240,1:1,25,1459510
+structure/avi_divx5_packed_bframes_mpeg4_mp3_480x360.avi,avi,mpeg4 packed,mp3,480x360,1:1,25,2892280
+structure/mkv_single_frame_320x240.mkv,matroska,mpeg4,,320x240,1:1,25,16065
+structure/avi_audio_only_mp3.avi,avi,,mp3,,,,185466
+structure/avi_video_only_msmpeg4v3_320x240.avi,avi,msmpeg4v3,,320x240,1:1,15,733150
+mislabeled/actually_mkv_named.rmvb,real: mkv,copy,copy,,,,1689587
+mislabeled/actually_mpegps_named.avi,real: mpg,copy,copy,,,,1269760
+mislabeled/actually_avi_named.wmv,real: avi,copy,copy,,,,911840
+mislabeled/actually_rm_named.avi,real: rm,copy,copy,,,,784594
+mislabeled/actually_flv_named.mp4,real: flv,copy,copy,,,,943202
+mislabeled/actually_mp4_named.3gp.avi,real: mp4,copy,copy,,,,437375
+damage/damage_zero_byte_empty_file.avi,.avi,empty,empty,,,,0
+damage/damage_p2p_zero_holes_avi_mpeg4asp_mp3_352x288_sar12-11.avi,.avi,zero_filled_64k_pieces,,,,,1662902
+damage/damage_p2p_zero_holes_mkv_mpeg2video_ac3_720x480_sar32-27.mkv,.mkv,zero_filled_64k_pieces,,,,,2702463
+damage/damage_p2p_zero_holes_rm_rv20_ac3_320x240.rmvb,.rmvb,zero_filled_64k_pieces,,,,,818956
+damage/damage_headless_first64k_mpeg1_mpeg1video_mp2_352x240.mpg,.mpg,first_64k_missing,,,,,1204224
+damage/damage_headless_first64k_mpegts_mpeg2video_ac3_480x480_29-97.mpegts,.mpegts,first_64k_missing,,,,,2149856
+damage/damage_headless_first64k_avi_msmpeg4v3_mp3_320x240.avi,.avi,first_64k_missing,,,,,846304
+damage/damage_headless_first64k_mkv_vp8_vorbis_320x240.mkv,.mkv,first_64k_missing,,,,,589374
+damage/damage_noidx1_avi_msmpeg4v3_mp3_320x240.avi,.avi,idx1_removed,,,,,901560
+damage/damage_badidx1_offsets_avi_msmpeg4v3_mp3_320x240.avi,.avi,idx1_offsets_shifted,,,,,911840
+damage/damage_trunc_mp4_faststart_moov_first_640x360.mp4,.mp4,truncated_3pct_moov_first,,,,,2584638
+normal/avi_cinepak_pcmu8_320x240_22050hz.avi,avi,cinepak,pcm_u8,320x240,1:1,15,1889514
+normal/mov_cinepak_adpcmimaqt_320x240.mov,mov,cinepak,adpcm_ima_qt,320x240,1:1,15,1731532
+normal/mov_svq1_adpcmimaqt_320x240.mov,mov,svq1,adpcm_ima_qt,320x240,1:1,15,958270
+normal/avi_msvideo1_pcmu8_160x120_11025hz.avi,avi,msvideo1,pcm_u8,160x120,1:1,10,478540
+normal/mov_qtrle_pcms16be_160x120.mov,mov,qtrle,pcm_s16be,160x120,1:1,10,1684673
+normal/mov_smc_pcms16be_160x120.mov,mov,smc,pcm_s16be,160x120,1:1,10,1030580
+normal/mov_rpza_pcms16be_160x120.mov,mov,rpza,pcm_s16be,160x120,1:1,10,1463068
+normal/avi_zmbv_pcm_320x200_70fps.avi,avi,zmbv,pcm_s16le,320x200,5:6,70,9842320
+normal/flv_flashsv_adpcmswf_320x240.flv,flv,flashsv,adpcm_swf,320x240,1:1,10,1994622
+normal/flv_flashsv2_speex_320x240.flv,flv,flashsv2,libspeex,320x240,1:1,10,803809
+normal/avi_h261_g726_352x288.avi,avi,h261,g726,352x288,12:11,15,618040
+normal/avi_huffyuv_yuv422_pcm_320x240.avi,avi,huffyuv,pcm_s16le,320x240,1:1,15,14607616
+normal/avi_xvid_qpel_gmc_bframes_mp3_640x352.avi,avi,libxvid,libmp3lame,640x352,1:1,25,3065364
+normal/avi_dv_pal_bff_pcm48k_720x576_6s.avi,avi,dvvideo,pcm_s16le,720x576,64:45,25,22772390
+normal/mov_dv_ntsc_411_pcm32k_720x480_6s.mov,mov,dvvideo,pcm_s16le,720x480,8:9,29.97,22372806
+tracks/vcd_karaoke_left1khz_right500hz_mpeg1_352x240.mpg,vcd,mpeg1video,mp2 L/R split,352x240,1:1,23.976,1071104
+tracks/dvd_dual_audio_ac3-1khz_lpcm-2khz_720x480.vob,dvd,mpeg2video,ac3+pcm_dvd,720x480,32:27,29.97,6451200
+tracks/dvd_ac351_channel_id_720x480.vob,dvd,mpeg2video,ac3 5.1,720x480,32:27,29.97,3385344
+tracks/dvd_dts51_channel_id_720x480.vob,dvd,mpeg2video,dca 5.1,720x480,32:27,29.97,3868672
+tracks/mkv_multilang_zho-1khz_eng-2khz-default_jpn51_320x240.mkv,matroska,mpeg4,aac+mp3+ac3 5.1,320x240,1:1,25,2080125
+tracks/avi_mpeg4_mulaw_8khz_mono_320x240.avi,avi,mpeg4,pcm_mulaw,320x240,1:1,15,982468
+subtitles/subtitle_reference_mpeg4_mp3_720x480.avi,avi,mpeg4,mp3,720x480,32:27,25,3525638
+subtitles/subtitle_reference_mpeg4_mp3_720x480.gbk.srt,srt,,subrip gbk,,,,831
+subtitles/subtitle_reference_mpeg4_mp3_720x480.big5.srt,srt,,subrip big5,,,,831
+subtitles/subtitle_reference_mpeg4_mp3_720x480.utf8bom.srt,srt,,subrip utf-8,,,,933
+subtitles/subtitle_reference_mpeg4_mp3_720x480.utf16le.srt,srt,,subrip utf-16-le,,,,1466
+subtitles/subtitle_reference_mpeg4_mp3_720x480.ssa,ssa,,ssa v4 utf-8,,,,2282
+subtitles/subtitle_reference_mpeg4_mp3_720x480.microdvd-25fps.sub,microdvd,,"frame-based, assumes video fps 25",,,,614
+subtitles/subtitle_reference_mpeg4_mp3_720x480.microdvd-23.976fps-header.sub,microdvd,,"frame-based, {1}{1}23.976 header",,,,626
+subtitles/subtitle_reference_mpeg4_mp3_720x480.vobsub.idx,vobsub,,dvd_subtitle index,,,,910
+subtitles/subtitle_reference_mpeg4_mp3_720x480.vobsub.sub,vobsub,,dvd_subtitle stream,,,,26624
+subtitles/mkv_srt-zho_ass-fontattach_vobsub_720x480.mkv,matroska,mpeg4,mp3 + srt/ass/dvdsub + ttf,720x480,32:27,25,3648821
+subtitles/dvd_mpeg2_ac3_vobsub_720x480.vob,dvd,mpeg2video,ac3 + dvd_subtitle,720x480,32:27,29.97,2828288
+subtitles/mpegts_mpeg2_mp2_dvbsub_720x480.ts,mpegts,mpeg2video,mp2 + dvb_subtitle,720x480,32:27,25,2599288
+structure/m2ts_h264_mbaff_tff_ac3_1440x1080i_sar4-3.m2ts,m2ts,h264 mbaff,ac3,1440x1080,4:3,29.97i,3452928
+structure/hdv_mpeg2_tff_mp2_1440x1080i_sar4-3.m2t,mpegts,mpeg2video,mp2,1440x1080,4:3,29.97i,12746024
+structure/mpegts_pts_wrap_33bit_at_3.7s_480x480.ts,mpegts,mpeg2video,ac3,480x480,1:1,29.97,2205052
+structure/mpegts_resolution_aspect_switch_720x480-4x3_16x9_352x240.ts,mpegts,mpeg2video,mp2,720x480/352x240,8:9/32:27/10:11,29.97,2780144
+structure/mpegts_audio_samplerate_switch_48k_44k_32k_320x240.ts,mpegts,mpeg2video,mp2 48/44.1/32 kHz,320x240,1:1,25,2211820
+structure/concat_vts_01_1_plus_2_timestamp_reset_720x480.vob,dvd,mpeg2video,ac3,720x480,32:27,29.97,2910208
+structure/concat_cat_vcd_ntsc_352x240_plus_pal_352x288.mpg,vcd,mpeg1video,mp2,352x240/352x288,1:1,29.97/25,1198080
+structure/mkv_vfr_hybrid_23.976_then_29.97_h264_640x360.mkv,matroska,h264 vfr,aac,640x360,1:1,23.976+29.97,911796
+structure/mp4_vfr_hybrid_23.976_then_29.97_h264_640x360.mp4,mp4,h264 vfr,aac,640x360,1:1,23.976+29.97,914919
+structure/mkv_video_starts_0.5s_after_audio_320x240.mkv,matroska,mpeg4,mp3,320x240,1:1,25,1404056
+structure/mkv_audio_timestamp_gap_4s-5s_320x240.mkv,matroska,mpeg4,vorbis,320x240,1:1,25,1312756
+structure/mkv_video_timestamp_gap_4s-5s_320x240.mkv,matroska,mpeg4,mp3,320x240,1:1,25,1362306
+structure/mov_editlist_empty_first_1s_320x240.mov,mov,h264,aac,320x240,1:1,25,344354
+structure/mp4_display_rotation_90_h264_aac_360x640.mp4,mp4,libx264,aac,360x640,1:1,15,555853
+structure/3gp_display_rotation_270_h263_amrnb_176x144.3gp,3gp,h263,libopencore_amrnb,176x144,1:1,15,346841
+structure/mkv_chapters_every_3s_320x240.mkv,matroska,mpeg4,mp3,320x240,1:1,25,1453464
+structure/mp4_chapters_every_3s_320x240.mp4,mp4,mpeg4,mp3,320x240,1:1,25,1457372
+structure/avi_info_title_gbk_320x240.avi,avi,mpeg4,mp3,320x240,1:1,15,1058690
+structure/rm_title_gbk_rv10_320x240.rm,rm,rv10,ac3,320x240,1:1,15,788253
+structure/mkv_sd_720x576_bt709_tagged_mpeg2.mkv,matroska,mpeg2video,ac3,720x576,64:45,25,3006377
+structure/mkv_hd_1280x720_bt709_untagged_h264.mkv,matroska,h264,ac3,1280x720,1:1,25,1912603
+structure/mkv_hd_1280x720_bt601_tagged_h264.mkv,matroska,h264,ac3,1280x720,1:1,25,1727824

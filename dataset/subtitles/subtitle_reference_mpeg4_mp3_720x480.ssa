@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: Fossil Frame subtitle sync
+ScriptType: v4.00
+PlayResX: 720
+PlayResY: 480
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Arial,28,16777215,65535,0,0,0,0,1,2,0,2,20,20,40,0,1
+Style: Top,Arial,22,65535,65535,0,0,0,0,1,2,0,6,20,20,60,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:01.00,0:00:01.90,Default,,0,0,0,,第 1 秒　中文字幕測試
+Dialogue: Marked=0,0:00:01.00,0:00:01.90,Top,,0,0,0,,sec 1 subtitle
+Dialogue: Marked=0,0:00:02.00,0:00:02.90,Default,,0,0,0,,第 2 秒　中文字幕測試
+Dialogue: Marked=0,0:00:02.00,0:00:02.90,Top,,0,0,0,,sec 2 subtitle
+Dialogue: Marked=0,0:00:03.00,0:00:03.90,Default,,0,0,0,,第 3 秒　中文字幕測試
+Dialogue: Marked=0,0:00:03.00,0:00:03.90,Top,,0,0,0,,sec 3 subtitle
+Dialogue: Marked=0,0:00:04.00,0:00:04.90,Default,,0,0,0,,第 4 秒　中文字幕測試
+Dialogue: Marked=0,0:00:04.00,0:00:04.90,Top,,0,0,0,,sec 4 subtitle
+Dialogue: Marked=0,0:00:05.00,0:00:05.90,Default,,0,0,0,,第 5 秒　中文字幕測試
+Dialogue: Marked=0,0:00:05.00,0:00:05.90,Top,,0,0,0,,sec 5 subtitle
+Dialogue: Marked=0,0:00:06.00,0:00:06.90,Default,,0,0,0,,第 6 秒　中文字幕測試
+Dialogue: Marked=0,0:00:06.00,0:00:06.90,Top,,0,0,0,,sec 6 subtitle
+Dialogue: Marked=0,0:00:07.00,0:00:07.90,Default,,0,0,0,,第 7 秒　中文字幕測試
+Dialogue: Marked=0,0:00:07.00,0:00:07.90,Top,,0,0,0,,sec 7 subtitle
+Dialogue: Marked=0,0:00:08.00,0:00:08.90,Default,,0,0,0,,第 8 秒　中文字幕測試
+Dialogue: Marked=0,0:00:08.00,0:00:08.90,Top,,0,0,0,,sec 8 subtitle
+Dialogue: Marked=0,0:00:09.00,0:00:09.90,Default,,0,0,0,,第 9 秒　中文字幕測試
+Dialogue: Marked=0,0:00:09.00,0:00:09.90,Top,,0,0,0,,sec 9 subtitle
+Dialogue: Marked=0,0:00:10.00,0:00:10.90,Default,,0,0,0,,第 10 秒　中文字幕測試
+Dialogue: Marked=0,0:00:10.00,0:00:10.90,Top,,0,0,0,,sec 10 subtitle
+Dialogue: Marked=0,0:00:11.00,0:00:11.90,Default,,0,0,0,,第 11 秒　中文字幕測試
+Dialogue: Marked=0,0:00:11.00,0:00:11.90,Top,,0,0,0,,sec 11 subtitle
